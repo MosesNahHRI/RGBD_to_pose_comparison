@@ -1,5 +1,0 @@
-Source: https://github.com/shanice-l/UNOPose
-Branch: main
-Commit: e366aa6
-Date: 2025-11-07
-Imported via: git subtree add --prefix=external/UNOPose https://github.com/shanice-l/UNOPose e366aa6 --squash
